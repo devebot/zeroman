@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+doc/
+log/
+test/lab/
+*.log
+*test.sh
