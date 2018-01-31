@@ -1,7 +1,7 @@
 {
-  "name": "devebot-test",
+  "name": "zeroman",
   "version": "0.2.2",
-  "description": "Devebot testing collection tools",
+  "description": "Node.js Testing Toolkit",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,20 +15,15 @@
     "cors": "^2.8.4",
     "death": "^1.1.0",
     "debug": "^3.1.0",
-    "devebot-api": "^0.2.1",
     "express": "^4.16.2",
     "intercept-stdout": "^0.1.2",
     "loadsync": "^0.1.8",
     "lodash": "^4.17.4",
     "loglyzer": "^0.1.1",
+    "mocket.io": "^0.1.12",
     "path-exists": "^3.0.0",
     "pm2": "^2.9.1",
     "schemato": "^0.1.2",
     "stream-buffers": "^3.0.1"
-  },
-  "devDependencies": {
-    "chai": "^4.1.2",
-    "mocha": "^3.5.3",
-    "winston": "^2.4.0"
   }
 }
